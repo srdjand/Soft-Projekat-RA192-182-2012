@@ -1,0 +1,45 @@
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_calib3d2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_contrib2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_core2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_features2d2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_flann2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_gpu2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_highgui2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_imgproc2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_legacy2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_ml2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_nonfree2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_objdetect2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_photo2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_stitching2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_superres2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_video2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\opencv_videostab2410.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Face Detection.exe
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Face Detection.pdb
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.OpenCL.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.Util.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\ZedGraph.dll
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.xml
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\bin\Debug\Emgu.Util.xml
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\obj\x86\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\obj\x86\Debug\Face_Detection.Form1.resources
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\obj\x86\Debug\Face_Detection.Properties.Resources.resources
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\obj\x86\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\obj\x86\Debug\Face Detection.exe
+C:\Users\Dawg\Desktop\Soft Kompjuting\Projekat RA192-182_2012\Face Detection\Face Detection\obj\x86\Debug\Face Detection.pdb
